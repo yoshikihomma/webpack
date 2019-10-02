@@ -1,0 +1,10 @@
+.p-home-bg {
+  display: block;
+  height: 300px;
+  background-image: url('#{$bgPath}sea.jpg');
+  background-size: cover;
+}
+
+.p-home-grid {
+  display: flex;
+}
